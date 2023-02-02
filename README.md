@@ -2,10 +2,10 @@
 
 <h1>Title example</h1>
 Act1<br>
-Jose</h1>
-2963692</h1>
-Degree?</h1>
-8th semester</h1>
-Disenio de aplicacion de software </h1>
-Erik Ezequiel Carrillo Moo</h1>
+Jose<br>
+2963692<br>
+Degree?<br>
+8th semester<br>
+Disenio de aplicacion de software <br>
+Erik Ezequiel Carrillo Moo<br>
 Markdown es un lenguaje que permite hacer formatos a documentos de texto.
