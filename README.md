@@ -1,6 +1,6 @@
 # Application-Web-Design
 
-<h1>Ejemplo de Titulo</h1>
+<h1>.</h1>
 Act1
 Jose
 2963692
